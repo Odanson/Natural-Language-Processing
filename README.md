@@ -1,6 +1,6 @@
 # Natural-Language-Processing
 ## NLP with NLTK Tool kit
-Welcome to the repository! This module focuses on Artificial Intelligence & Adaptive Systems, Data Science, and Human and Social Data Science, with an emphasis on Natural Language Processing (NLP) applications.
+This repository focuses on Artificial Intelligence & Adaptive Systems, Data Science, and Human and Social Data Science, with an emphasis on Natural Language Processing (NLP) applications.
 
 ## Overview
 
