@@ -1,6 +1,6 @@
 # Natural-Language-Processing
 ## NLP with NLTK Tool kit
-This repository focuses on Artificial Intelligence & Adaptive Systems, Data Science, and Human and Social Data Science, with an emphasis on Natural Language Processing (NLP) applications.
+Welcome to the NLP (Natural Language Processing) repository! This repository is designed to guide you through the fascinating world of language understanding and text analysis. Whether you're just starting or looking to enhance your skills, the modules in this repository cover a range of topics in ANLP (Applied Natural Language Processing) and Python programming.
 
 ## Overview
 
@@ -14,37 +14,40 @@ In this module, we'll dive into NLP applications, exploring current technology, 
 - Leverage NLTK toolkits for practical implementation
 - Conduct empirical investigations to assess technology effectiveness
   
-## Content
+## Module Programme
 
-### 1. Data Structures and Data Formats
-- Unveiling the world of data structures and formats.
+### 1: Intro to ANLP and Python Programming
+- Lay the foundation with an introduction to Applied Natural Language Processing and essential Python programming concepts.
 
-### 2. Algorithmic Complexity. Sorting.
-- Decoding algorithmic complexity and mastering sorting techniques.
+### 2: Text Documents and Preprocessing
+- Dive into the realm of text documents, understanding their structure, and mastering the art of preprocessing.
 
-### 3. Matrices - Manipulation and Computation
-- Navigating the world of matrices: Manipulation and computation.
+### 3: Document Classification
+- Explore document classification techniques to categorize and organize text data effectively.
 
-### 4. Processes and Concurrency
-- Unraveling the intricacies of processes and concurrency in the realm of algorithmic data science.
+### 4: Further Document Classification
+- Advance your knowledge in document classification, delving into more sophisticated methods and algorithms.
 
-### 5. Distributed Computation
-- The orchestration of knowledge on distributed computation principles.
+### 5: Document Similarity and Clustering
+- Understand document similarity and learn clustering techniques for grouping similar texts.
 
-### 6. Similarity
-- Bridging the gap: Exploring algorithms for data similarity.
+### 6: Lexical Semantics and Word Senses
+- Explore the nuances of lexical semantics and delve into understanding different word senses.
 
-### 7. MapReduce
-- Mapping and reducing complexities: An introduction to MapReduce in algorithmic data science.
+### 7: Distributional Semantics
+- Grasp the concept of distributional semantics and its applications in understanding word meanings.
 
-### 8. Clustering, Graphs/Networks I
-- Cluster analysis and network exploration: A deep dive into graphs.
+### 8: Part-of-Speech Tagging and Hidden Markov Models
+- Gain insights into part-of-speech tagging and the application of Hidden Markov Models in language processing.
 
-### 9. More Graphs 2 - Communities, PageRank Algorithm
-- Navigating through communities and understanding the influential PageRank algorithm in the realm of graphs.
+### 9: Named Entity Recognition (NER) and Information Extraction (IE)
+- Explore the realms of Named Entity Recognition and Information Extraction to identify and extract valuable information from text.
 
-### 10. Databases
-- Delving into the world of databases within the context of algorithmic data science.
+### 10: Exercise
+- Put your newfound knowledge to the test with practical exercises, reinforcing your skills in NLP.
 
-## What to Expect
-By the end of this module, you'll have developed a solid understanding of the challenges in NLP and an awareness of the current possibilities and limitations, while honing your Python programming skills and utilising NLTK toolkits. Join us on this journey to enhance your expertise in the exciting intersection of technology and language processing!
+## Contribution
+
+Feel free to contribute to this repository by sharing insights, improvements, or additional materials through pull requests. Collaborative learning is essential, and your contributions will help enhance the collective understanding of Natural Language Processing.
+
+Embark on this exciting journey through the modules, and enjoy the exploration of Natural Language Processing with Python! Happy coding!
