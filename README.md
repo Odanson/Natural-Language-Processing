@@ -1,4 +1,4 @@
-# Natural-Language-Processing
+# Applied-Natural-Language-Processing
 ## NLP with NLTK Tool kit
 Welcome to the NLP (Natural Language Processing) repository! This repository is designed to guide you through the fascinating world of language understanding and text analysis. Whether you're just starting or looking to enhance your skills, the modules in this repository cover a range of topics in ANLP (Applied Natural Language Processing) and Python programming.
 
